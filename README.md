@@ -44,7 +44,7 @@ queries run within the tool.
     and a [Node.js](http://nodejs.org/)-based build pipeline ([Browserify](http://browserify.org/)
     and [Gulp](http://gulpjs.com/)) to build the front-end Javascript code.
 
-    If you have `node` and `npm` installed locally, and wish to use
+    If you have `node` (v0.12.0+) and `npm` (v2.5.1+) installed locally, and wish to use
     them, simply run:
 
     ```
